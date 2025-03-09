@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 🎙️ API Organizar PodCasts
 
 Esta é uma API para listar e filtrar episódios de podcasts com base em um repositório local de dados.
@@ -155,7 +155,3 @@ GET /podcasts?p=FlowPodcast
 | 204    | No Content - Nenhum conteúdo encontrado  |
 
 ---
-=======
-# PodCastManager
-Esta é uma API para listar e filtrar episódios de podcasts com base em um repositório local de dados.
->>>>>>> d6450db5ccd9814e4e5c3584d2fc43cd94012545
